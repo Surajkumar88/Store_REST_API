@@ -1,0 +1,1 @@
+this is a file which will include all the planning for the item-categories to enhance the stiores REST API.
